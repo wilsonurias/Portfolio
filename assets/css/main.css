@@ -33,7 +33,7 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
+ol, ul, li {
 	list-style: none;
 }
 
@@ -3510,3 +3510,19 @@ input, select, textarea {
 			}
 
 	}
+
+
+#services{
+	font-size: 95px;
+	
+}
+
+.listOfServices{
+	font-size: 40px;
+	letter-spacing: normal;
+}
+
+#firstService, #secondService, #thirdService{
+	margin-bottom: 25px;
+}
+
